@@ -1,7 +1,9 @@
-This is a test file
+is a test file
 to check what is commited in 2nd 
 After add command this line is added
 
 doing stage and  unstage changes in a file
 
 Now to see the conflict
+=======
+Not done

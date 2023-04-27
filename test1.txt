@@ -7,3 +7,6 @@ doing stage and  unstage changes in a file
 Now to see the conflict
 =======
 Not done
+
+
+WIP
